@@ -10,7 +10,7 @@ body {
   position: fixed;
   top: 0;
   left: 0;
-  width: 98%;
+  width: 100%;
   z-index: 1000;
   display: flex;
   justify-content: space-between;
@@ -32,7 +32,7 @@ body {
   position: fixed;
   top: 115px; /* Adjust according to navbar height */
   left: 0;
-  width: 98%;
+  width: 100%;
   z-index: 999;
   background-color: #4db6ac;
   color: white;

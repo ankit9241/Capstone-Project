@@ -26,6 +26,11 @@
   padding-bottom: 4px;
   max-width: 100%;
   padding-right: 0;
+  scroll-snap-type: x mandatory;
+}
+
+.question-button {
+  scroll-snap-align: start;
 }
 
 .final-submit-button {
